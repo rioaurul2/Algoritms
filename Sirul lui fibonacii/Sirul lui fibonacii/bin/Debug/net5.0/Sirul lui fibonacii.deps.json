@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Sirul lui fibonacii/1.0.0": {
+        "runtime": {
+          "Sirul lui fibonacii.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Sirul lui fibonacii/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

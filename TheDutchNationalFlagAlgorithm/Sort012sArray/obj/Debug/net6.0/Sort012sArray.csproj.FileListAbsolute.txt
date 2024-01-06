@@ -1,0 +1,14 @@
+G:\Programe\C#\Algoritmica\Algoritms\Sort012sArray\Sort012sArray\bin\Debug\net6.0\Sort012sArray.exe
+G:\Programe\C#\Algoritmica\Algoritms\Sort012sArray\Sort012sArray\bin\Debug\net6.0\Sort012sArray.deps.json
+G:\Programe\C#\Algoritmica\Algoritms\Sort012sArray\Sort012sArray\bin\Debug\net6.0\Sort012sArray.runtimeconfig.json
+G:\Programe\C#\Algoritmica\Algoritms\Sort012sArray\Sort012sArray\bin\Debug\net6.0\Sort012sArray.dll
+G:\Programe\C#\Algoritmica\Algoritms\Sort012sArray\Sort012sArray\bin\Debug\net6.0\Sort012sArray.pdb
+G:\Programe\C#\Algoritmica\Algoritms\Sort012sArray\Sort012sArray\obj\Debug\net6.0\Sort012sArray.GeneratedMSBuildEditorConfig.editorconfig
+G:\Programe\C#\Algoritmica\Algoritms\Sort012sArray\Sort012sArray\obj\Debug\net6.0\Sort012sArray.AssemblyInfoInputs.cache
+G:\Programe\C#\Algoritmica\Algoritms\Sort012sArray\Sort012sArray\obj\Debug\net6.0\Sort012sArray.AssemblyInfo.cs
+G:\Programe\C#\Algoritmica\Algoritms\Sort012sArray\Sort012sArray\obj\Debug\net6.0\Sort012sArray.csproj.CoreCompileInputs.cache
+G:\Programe\C#\Algoritmica\Algoritms\Sort012sArray\Sort012sArray\obj\Debug\net6.0\Sort012sArray.dll
+G:\Programe\C#\Algoritmica\Algoritms\Sort012sArray\Sort012sArray\obj\Debug\net6.0\refint\Sort012sArray.dll
+G:\Programe\C#\Algoritmica\Algoritms\Sort012sArray\Sort012sArray\obj\Debug\net6.0\Sort012sArray.pdb
+G:\Programe\C#\Algoritmica\Algoritms\Sort012sArray\Sort012sArray\obj\Debug\net6.0\Sort012sArray.genruntimeconfig.cache
+G:\Programe\C#\Algoritmica\Algoritms\Sort012sArray\Sort012sArray\obj\Debug\net6.0\ref\Sort012sArray.dll

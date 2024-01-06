@@ -1,0 +1,16 @@
+G:\Programe\C#\Sirul lui fibonacii\Sirul lui fibonacii\obj\Debug\net5.0\Sirul lui fibonacii.csproj.AssemblyReference.cache
+G:\Programe\C#\Sirul lui fibonacii\Sirul lui fibonacii\obj\Debug\net5.0\Sirul lui fibonacii.GeneratedMSBuildEditorConfig.editorconfig
+G:\Programe\C#\Sirul lui fibonacii\Sirul lui fibonacii\obj\Debug\net5.0\Sirul lui fibonacii.AssemblyInfoInputs.cache
+G:\Programe\C#\Sirul lui fibonacii\Sirul lui fibonacii\obj\Debug\net5.0\Sirul lui fibonacii.AssemblyInfo.cs
+G:\Programe\C#\Sirul lui fibonacii\Sirul lui fibonacii\obj\Debug\net5.0\Sirul lui fibonacii.csproj.CoreCompileInputs.cache
+G:\Programe\C#\Sirul lui fibonacii\Sirul lui fibonacii\bin\Debug\net5.0\Sirul lui fibonacii.exe
+G:\Programe\C#\Sirul lui fibonacii\Sirul lui fibonacii\bin\Debug\net5.0\Sirul lui fibonacii.deps.json
+G:\Programe\C#\Sirul lui fibonacii\Sirul lui fibonacii\bin\Debug\net5.0\Sirul lui fibonacii.runtimeconfig.json
+G:\Programe\C#\Sirul lui fibonacii\Sirul lui fibonacii\bin\Debug\net5.0\Sirul lui fibonacii.runtimeconfig.dev.json
+G:\Programe\C#\Sirul lui fibonacii\Sirul lui fibonacii\bin\Debug\net5.0\Sirul lui fibonacii.dll
+G:\Programe\C#\Sirul lui fibonacii\Sirul lui fibonacii\bin\Debug\net5.0\ref\Sirul lui fibonacii.dll
+G:\Programe\C#\Sirul lui fibonacii\Sirul lui fibonacii\bin\Debug\net5.0\Sirul lui fibonacii.pdb
+G:\Programe\C#\Sirul lui fibonacii\Sirul lui fibonacii\obj\Debug\net5.0\Sirul lui fibonacii.dll
+G:\Programe\C#\Sirul lui fibonacii\Sirul lui fibonacii\obj\Debug\net5.0\ref\Sirul lui fibonacii.dll
+G:\Programe\C#\Sirul lui fibonacii\Sirul lui fibonacii\obj\Debug\net5.0\Sirul lui fibonacii.pdb
+G:\Programe\C#\Sirul lui fibonacii\Sirul lui fibonacii\obj\Debug\net5.0\Sirul lui fibonacii.genruntimeconfig.cache
